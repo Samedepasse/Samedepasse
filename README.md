@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Samedepasse
+- 👋 Hi, I’m Siupepe
 - 👀 I’m interested in 3D
 - 🌱 I’m currently learning Blender, JS
 - 💞️ I’m open to collaborating if you need to
